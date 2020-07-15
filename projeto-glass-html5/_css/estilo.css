@@ -35,8 +35,8 @@
     
     header#cabecalho img#icone {
         position: absolute;
-        left: 930px;
-        top: 70px;
+        left: 800px;
+        top: 60px;
     }
     
     header#cabecalho {
@@ -100,15 +100,16 @@
         list-style: none;
         text-transform: uppercase;
         position: absolute;
-        top: -20px;
-        left: 489px;
+        top: -15px;
+        left: 445px;
+        font-size: 11pt;
     }
     
     nav#menu li {
         display: inline-block;
         background-color: #dddddd;
-        padding: 10px;
-        margin: 2px;
+        padding: 5px;
+        margin: 1px;
         transition: 1s;
     }
     
