@@ -211,6 +211,10 @@
         margin-top: 10px;
     }
     
+    video#video-02 {
+        width: 350px;
+    }
+    
     aside#lateral {
         display: block;
         width: 350px;
